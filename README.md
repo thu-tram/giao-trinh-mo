@@ -21,6 +21,8 @@ Chỉ dám hứa là sẽ dịch xong một số cuốn sách học Khoa học m
 - [Cấu trúc và diễn giải chương trình máy tính](/sicp-vi) - Bản dịch cho cuốn sách SICP (Tất nhiên là bản 2nd + sử dụng Scheme rồi!) huyền thoại.
 - [OS Bí truyền thư](/ostep-vi) - Bản dịch cho cuốn [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Mạngg máy tính](/mangg-may-tinh) - Bản dịch cho [Giáo trình Mạng máy tính khóa CS168](https://textbook.cs168.io/)
+- [Xây dựng trình phiên dịch](/xay-dung-trinh-thong-dich) - Bản dịch sách [Crafting Interpreters](https://craftinginterpreters.com/).
+- [Đắm mình vào hệ thống](/dam-minh-vao-he-thong) - Bản dịch sách [Dive Into Systems](https://diveintosystems.org/).
 
 ## Ngoại ngữ
 Đều đang trong quá trình hoàn thiện.
